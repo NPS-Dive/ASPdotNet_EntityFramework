@@ -1,0 +1,35 @@
+﻿.mainDiv {
+    width: 50%;
+    margin: auto;
+    margin-top: 100px;
+    font-family: 'Comic Sans MS';
+    font-size: large;
+}
+
+.headerGrid {
+    background-color: blueviolet;
+    color: azure;
+}
+
+.NewBTN {
+    cursor: grab;
+    background-color: darkolivegreen;
+    color: aliceblue;
+    border:1px solid red;
+    border-radius:5px;
+    padding:5px;
+}
+
+/*----- Action Form ----*/
+.bodyAction {
+    background-color: rosybrown;
+    margin: auto;
+    text-align: center;
+    margin-top: 35px;
+    font-family: 'MS UI Gothic';
+    font-size: large;
+}
+
+.mouseOver {
+    cursor: grab;
+}
